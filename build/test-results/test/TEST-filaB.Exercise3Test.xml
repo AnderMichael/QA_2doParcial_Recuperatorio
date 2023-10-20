@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="filaB.Exercise3Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-20T07:43:08" hostname="LAPTOP-V6TDORT5" time="16.685">
+  <properties/>
+  <testcase name="createUserProject()" classname="filaB.Exercise3Test" time="16.685"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
